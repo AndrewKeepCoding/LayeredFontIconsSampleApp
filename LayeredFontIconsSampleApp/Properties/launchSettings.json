@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LayeredFontIconsSampleApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LayeredFontIconsSampleApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
